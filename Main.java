@@ -66,7 +66,7 @@ class Student {
     }
 }
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         Student student1 = new Student("John Doe", "Computer Science", "Engineering");
         student1.addCourse("Mathematics", 75);
